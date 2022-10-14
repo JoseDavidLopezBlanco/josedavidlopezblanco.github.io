@@ -5,7 +5,7 @@ permalink: /datacode/
 author_profile: true
 ---
 
-### About me
+
 
 I was born in Zaragoza, where I studied a dual bachelor in Law and Business Administration. After working in consultancy for some months, I started a research master in Sociology and Demography from Pompeu Fabra University in Barcelona. Currently, I am a PhD candidate at the University Carlos III of Madrid,  affiliated to the Department of Social Sciences. As I wrote in endless motivation letters, my educational background has provided me an excellent cross-cutting understanding of the social sciences and analytical tools for analysing economic, social, legal and administrative relations and their intersections in global societies.
 However, my academic career was a fortunate accident.
