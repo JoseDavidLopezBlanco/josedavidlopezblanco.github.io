@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "About me"
-permalink: /aboutme/
+permalink: /datacode/
 author_profile: true
 ---
 
