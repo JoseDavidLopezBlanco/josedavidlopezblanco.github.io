@@ -7,7 +7,7 @@ author_profile: true
 
 Talking about my academic career is talking about a fortunate accident.
 
-Research was not my first choice. In fact, it was not even an option. I did a dual bachelor's degree in Law and Business Administration during the worst years of the Great Recession. Living in a country like Spain, where the economic crisis hit dramatically, I felt this was the only way to protect myself from unemployment and precariousness. However, during my studies there were few elements that motivated me. There was a gap between what I saw as a forced obligation and my personal interests that deepened every day.
+Research was not my first choice. In fact, it was not even an option. I did a dual bachelor's degree in Law and Business Administration during the worst years of the Great Recession. As the economic crisis hit dramatically Spain, I felt this was the only way to protect myself from unemployment and precariousness. However, during my studies there were few elements that motivated me. There was a gap between what I saw as a forced obligation and my personal interests that deepened every day.
 
 And then, I started my first bachelor's thesis. It was the first moment I got in touch with research and the first time that everything I cared about was connected. It was creative, it was inspiring, it was meaningful. Encouraged by the grades of my two bachelor theses and the advice of my supervisors, I decided to enrol in a research master's in sociology and demography at the University Pompeu Fabra of Barcelona. The reason? I would like to say that it was my love for Merton or Weber. But I chose this master's degree because it was one of the few research Master's programmes available at the time of my application. 
 
