@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-======
+
 
 Hi!
 I am José David López Blanco, a PhD student in Sociology at the University Carlos III (Madrid, Spain), affiliated to the Department of Social Sciences. 
