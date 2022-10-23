@@ -39,8 +39,7 @@ making it easier to acquire a third language due to the decreasing cost of acqui
 </details>
 <br>
 
-## López Blanco, J.D. Internal and International Migration in “Schengenland”.Determinants of graduate migration from
-Italy and Spain
+## López Blanco, J.D. Internal and International Migration in “Schengenland”.Determinants of graduate migration from Italy and Spain
 <details>
 
 <summary>Read more</summary>
@@ -69,8 +68,7 @@ can act as a factor in the reproduction of social and spatial inequality.
 # <span style="color:#52adc8"> In preparation </span>
 
 
-## López Blanco, J.D. The returns of returning.The impact of migration experience in labour market outcomes in Spain
-internal and international migration.
+## López Blanco, J.D. Not What, but Where.The impact of migration experience in labour market outcomes in Spanish internal and international migration.
 <details>
 <summary>Read more</summary>
 In development
