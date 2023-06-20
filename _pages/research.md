@@ -16,6 +16,19 @@ Besides migration, I am also interested in economic sociology and demographic ph
 
 # <span style="color:#52adc8"> Working papers </span>
 
+
+## López Blanco, J.D. Not What, but Where: The Socioeconomic Mobility of International Returnees and Internal Migrants in Spain
+<details>
+
+<summary>Read more</summary>
+This paper contributes to the economic sociology of return, focusing on how returnees can use their acquired resources to gain economic mobility in their home countries. It fills an important gap in the literature: the comparative valuation of human capital acquired abroad versus comparable opportunities in the home country. By distinguishing between non-migrants, internal migrants, and international returnees, I examine the economic impact of return using micro-level survey data from a representative sample of Spanish university and vocational graduates. Although occupation-specific and general migration experiences generate higher returns for returnees than for internal migrants, only returnees with the most successful migration trajectory have an advantage, while the rest of former international migrants are disadvantaged compared to non-migrants. As this could be due to the segmented reintegration of returnees, especially in terms of educational background and regional labour market characteristics, the results show the double-edged nature of international migration in promoting social mobility or deepening inequality.
+  
+ - <i>Draft available upon request </i>. 
+
+</details>
+<br>
+
+
 ## López Blanco, J.D. Language and Migration. An Analysis of Linguistic Capital in Internal and International Migration.
 <details>
 <summary>Read more</summary>
@@ -39,26 +52,24 @@ making it easier to acquire a third language due to the decreasing cost of acqui
 </details>
 <br>
 
-## López Blanco, J.D. Internal and International Migration in “Schengenland”.Determinants of graduate migration from Italy and Spain
+## López Blanco, J.D. Internal and International Migration in “Schengenland”. Selectivity of the young Spanish migration
 <details>
 
 <summary>Read more</summary>
-The study of the links between internal and international migration has traditionally been neglected in
-migration research. This gap is even more striking in the case of the countries of the European Union, as the
-policy of free movement and the creation of a common labour market have placed intra-European mobility in a
-liminal state: neither an unlimited space of free movement nor a classic example of cross-border restrictions. With
-the aim of filling this gap, this paper addresses the question of whether - and how - intra-European migration
-differs from intra-European migration in terms of migration selectivity and economic performance. It does so by
-examining the attraction of graduate migration to internal and international economic ’cores’, using comparable
-micro-level survey data from a representative sample of Italian and Spanish graduates. The findings confirm
-that intra-EU migration remains a costly project, requiring greater scale and diversity of resources than internal
-migration. They also show that the nature of each resource influences migration decisions, as the extent to
-which resources are location-specific and their transferability determine which migration path is chosen. Finally,
-the results also highlight the important role of regional development and economic/non-economic factors in
-determining selectivity between internal and international migration. Thus, internal and international migration
-can act as a factor in the reproduction of social and spatial inequality.
+The  study  of  the  links  between  internal  and  international  migration  has  traditionally  been  neglected  in
+migration research. This gap is even more striking in the case of the countries of the European Union, as the policy
+of free movement and the creation of a common labour market have placed intra-European mobility in a liminal
+state:  neither an unlimited space of free movement nor a classic example of cross-border restrictions.  This paper
+addresses the question of whether - and how - intra-European migration differs from internal migration in terms
+of migration selectivity.  It does so by using comparable micro-level survey data from a representative sample
+of Spanish graduates and vocational trainees.  The results show that internal and intra-European migration are
+positively selected with respect to education and that the strength of the selection mechanism is similar for them,
+especially compared to non-European international migration,  where positive selection is stronger.  They also
+show that the nature of each resource influences migration decisions,  as its transferability or location-specific
+utility determines which migration path is chosen. Finally, the results also highlight the important role of regional
+inequality in determining selectivity among migration projects.
   
- - <i>Draft available upon request</i>. 
+ - <i>Pre-print available: https://osf.io/preprints/socarxiv/btxqn/ </i>. 
 
 </details>
 <br>
@@ -68,7 +79,7 @@ can act as a factor in the reproduction of social and spatial inequality.
 # <span style="color:#52adc8"> In preparation </span>
 
 
-## López Blanco, J.D. Not What, but Where.The impact of migration experience in labour market outcomes in Spanish internal and international migration.
+## López Blanco, J.D. and Nadaraia, K. When Poverty comes in at the Door, Love flies out at the Window. The Mediated Effect of Income on Fertility Intentions and their Realization in Couples
 <details>
 <summary>Read more</summary>
 In development
