@@ -23,7 +23,7 @@ Besides migration, I am also interested in economic sociology and demographic ph
 <summary>Read more</summary>
 This paper contributes to the economic sociology of return, focusing on how returnees can use their acquired resources to gain economic mobility in their home countries. It fills an important gap in the literature: the comparative valuation of human capital acquired abroad versus comparable opportunities in the home country. By distinguishing between non-migrants, internal migrants, and international returnees, I examine the economic impact of return using micro-level survey data from a representative sample of Spanish university and vocational graduates. Although occupation-specific and general migration experiences generate higher returns for returnees than for internal migrants, only returnees with the most successful migration trajectory have an advantage, while the rest of former international migrants are disadvantaged compared to non-migrants. As this could be due to the segmented reintegration of returnees, especially in terms of educational background and regional labour market characteristics, the results show the double-edged nature of international migration in promoting social mobility or deepening inequality.
   
- - <i>Draft available upon request </i>. 
+ - <i>>Pre-print available: https://osf.io/preprints/socarxiv/c6pqk/ </i>. 
 
 </details>
 <br>
