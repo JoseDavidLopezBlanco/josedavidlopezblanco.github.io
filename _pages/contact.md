@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Department of Social Sciences, University Carlos III<br>
-C. Madrid, 126, 28903 Getafe, Madrid <br>
-Email: jolopezb [at] clio [dot] uc3m [dot] es
+Department of Political and Social Science<br>
+Strada Maggiore 45, Bologna, Italy <br>
+Email: jose.lopezblanco [at]unibo [dot] it 
