@@ -5,13 +5,7 @@ author_profile: true
 ---
 Research
 ======
-I am broadly interested in migration and ethnic relations: how the interplay between individual and contextual factors shape migration decisions, and how their integration differs according to the context of destination and resources embedded within ethnic ties.
 
- 
-
-I am part of the research network  [GEPS](https://www.geps.es/) (Grupo de Estudios de Población y Sociedad). 
-
-Besides migration, I am also interested in economic sociology and demographic phenomena.
 
 # <span style="color:#52adc8"> Publications </span>
 ## López Blanco, J.D. Do languages open doors? A theoretical model of linguistic capital and (im)mobility and its application in Spanish youth migration
