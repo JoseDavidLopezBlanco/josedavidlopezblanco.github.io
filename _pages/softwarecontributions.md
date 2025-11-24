@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Software contributions"
+title: "software"
 permalink: /software/
 author_profile: true
 ---
