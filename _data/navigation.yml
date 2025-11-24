@@ -1,24 +1,14 @@
-# main links links
+# main links
 main:
-      
   - title: "Research"
-    url: /research/ 
-    
-  #  - title: "Publications"
-  #    url: /publications/ 
-    
-  #  - title: "Teaching"
-  #    url: /teaching/
+    url: /research/
     
   - title: "CV"
-    url: /cv/    
+    url: /cv/
         
- # - title: "Blog Posts"
- #   url: /year-archive/
-    
   - title: "About me"
     url: /datacode/
 
   - title: "Software contributions"
     url: /software/
-    
+
