@@ -9,6 +9,15 @@ Research
 
 # <span style="color:#52adc8"> Publications </span>
 
+
+## Lopez Blanco, J.D. (2026), After dropout: Social stratification and the dynamics of educational re-entry in Spain
+<details>
+<summary>Read more</summary>
+This study investigates how social origin shapes second-chance educational trajectories among early school leavers in Spain. Specifically, we focus on youth who exited compulsory lower secondary education (Educación Secundaria Obligatoria, ESO) without obtaining the basic credential. Using nationally representative longitudinal data and applying sequence analysis, event history models, and multinomial logistic regressions, we examine patterns of re-engagement, timing, and final educational outcomes. The results reveal strong and persistent stratification by parental education. Young people from tertiary-educated families are more likely to return to formal education, to re-engage earlier, and to pursue more coherent and upward-oriented vocational pathways. These findings extend the theory of compensatory advantage to a highly selected and vulnerable group, showing that class-based expectations remain remarkably resilient: when academic routes become inaccessible, advantaged families redirect their children toward more feasible yet still advantageous vocational alternatives. The analysis also highlights how opportunity structures shape these trajectories. Labour-market participation delays educational return for all early school leavers, but it also attenuates class differences by reducing reliance on family background; by contrast, unemployment magnifies social-origin gaps. Finally, the expansion of Basic Vocational Training (VT) has facilitated access to second-chance education, yet its role remains ambivalent: while it provides a route to qualification, it frequently acts as a de facto dead end for disadvantaged youth, many of whom do not progress to Medium or Higher VT. Overall, the study underscores the cumulative and class-contingent nature of second-chance opportunities and demonstrates how inequalities are reproduced beyond the initial moment of school leaving.
+
+
+  - <i>Population, Space and Place, 31(5), e70050 DOI:  https://doi.org/10.1002/psp.70050 </i>. 
+
 ## Lopez Blanco, J.D. (2025), From Students to Movers: Linking Internal and International Migration Trajectories Among Spanish Bachelor's and Advanced Vocational Training Graduates 
 <details>
 <summary>Read more</summary>
