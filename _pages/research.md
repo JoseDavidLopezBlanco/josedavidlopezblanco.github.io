@@ -17,7 +17,9 @@ This study investigates how social origin shapes second-chance educational traje
 
 
   - <i>Research in Social Stratification and Mobility
-Volume 102, April 2026, 101128 DOI: https://doi.org/10.1002/psp.70050](https://doi.org/10.1016/j.rssm.2026.101128 </i>. 
+Volume 102, April 2026, 101128 DOI: https://doi.org/10.1002/psp.70050](https://doi.org/10.1016/j.rssm.2026.101128 </i>.
+</details>
+<br>
 
 ## Lopez Blanco, J.D. (2025), From Students to Movers: Linking Internal and International Migration Trajectories Among Spanish Bachelor's and Advanced Vocational Training Graduates 
 <details>
