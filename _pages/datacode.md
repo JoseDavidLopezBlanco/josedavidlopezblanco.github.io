@@ -18,20 +18,4 @@ At the same time, sociology brings me endless joy. Like a shipwrecked poet carvi
 I will always strive to unravel the social dynamics that shape us, to understand who we are, and to imagine who we can become. 
 
 
-                                                  *************
----------------------------------------------------------------------------------------------------------------------
-                                                  *************
-
-Hablar de mi trayectoria académica es como contar la historia de un accidente afortunado.
-
-La investigación nunca formó parte del plan. De hecho, ni siquiera estaba en el radar. Cursé un doble grado en Derecho y Administración y Dirección de Empresas durante el apogeo de la Gran Recesión en España. Con la crisis económica devastando las perspectivas laborales, vi este camino como mi opción más segura para evitar el desempleo y la precariedad. Sin embargo, a medida que avanzaba en mis estudios, me sentía cada vez más desconectado. La brecha entre lo que hacía por necesidad y lo que realmente despertaba mi interés se hacía más grande cada día.
-
-Entonces llegó mi primer trabajo de fin de grado. Por primera vez, me encontré con la investigación, y todo cambió. Era creativa, inspiradora y significativa. De repente, todo lo que me importaba confluía en un mismo lugar. Animado por los comentarios positivos sobre mis dos trabajos de fin de grado y los consejos de mis directores, decidí matricularme en un máster de investigación en Sociología y Demografía. ¿Por qué este programa? Me encantaría decir que fue por mi admiración por Merton o Weber, pero la verdad es que era uno de los pocos másteres orientados a la investigación disponibles en aquel momento.
-
-Y así, una serie de circunstancias afortunadas me llevaron a la sociología, esa disciplina maravillosamente caótica donde nada humano nos es ajeno. Fue amor a primera vista. Esta pasión es tanto un deber como un regalo. Como miembro de una generación forzada a tomar decisiones vitales en medio de la incertidumbre económica, comprender estos procesos no es solo una búsqueda intelectual, sino una obligación moral.
-
-Al mismo tiempo, la sociología me llena de alegría. Como un poeta náufrago que talla palabras en la arena, sabiendo que las olas las borrarán mañana, permanezco cautivado por el mundo que me rodea, armado únicamente con unas pocas verdades ciertas: que todas las preguntas quizás nunca sean respondidas del todo; que las estructuras sociales que nos hacen y rehacemos cada día quizás nunca sean comprendidas perfectamente; y que las costurarade nuestra capacidad de agencia siempre tendrán un elemento de misterio. Pero he aprendido que la lucha en sí misma es suficiente. Que en el forcejeo con estos enigmas interminables no hay frustración, sino libertad. Como el Sísifo de Camus, encuentro la felicidad en el trabajo mismo.
-
-Siempre me esforzaré por desentrañar las dinámicas sociales que nos moldean, por comprender quiénes somos y por imaginar quiénes podemos llegar a ser
-
-
+                                                  
