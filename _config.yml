@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "José David López Blanco"
 title_separator          : "-"
 name                     : &name "José David López Blanco"
-description              : &description "Research Fellow at University of Bologna (Italy)"
+description              : &description "Postdoctoral Researcher at National University of Distance Education (UNED"
 url                      : https://josedavidlopezblanco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JoseDavidLopezBlanco/josedavidlopezblanco.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "José David López Blanco"
   avatar           : "profile.jpeg"
-  bio              : "Research Fellow at University of Bologna"
-  location         : "Emilia-Romagna, Italy"
+  bio              : "Postdoctoral researcher at National University of Distance Education (UNED)"
+  location         : "Emilia-Romagna, Italy/ Madrid, Spain"
   employer         :
   googlescholar    : 
-  email            : "jose.lopezblanco@unibo.it"
+  email            : "jose.lopezblanco@unibo.it/jd.lopez@poli.uned.es"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
