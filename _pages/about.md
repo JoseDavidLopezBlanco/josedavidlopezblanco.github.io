@@ -10,7 +10,7 @@ redirect_from:
 
 
 Hi!
-Hi! I am José David López Blanco, a Postdoctoral Researcher at the National Distance University of Spain (UNED), affiliated to the department of Sociology III, where I work on the project Multidimensional Masculinities and the Gender Divide: A Comparative and Intergenerational Analysis (MULTIDIMENSIONAL).  My research focuses on how social stratification shapes people’s lives across various dimensionswith a particular focus on gender inequalities, social and spatial mobility, sustainable ageing, and educational trajectories. 
+Hi! I am José David López Blanco, a Postdoctoral Researcher at the National Distance University of Spain (UNED), where I work on the project Multidimensional Masculinities and the Gender Divide: A Comparative and Intergenerational Analysis (MULTIDIMENSIONAL).  My research focuses on how social stratification shapes people’s lives across various dimensionswith a particular focus on gender inequalities, social and spatial mobility, sustainable ageing, and educational trajectories. 
 
 Previously, I was a Postdoctoral Researcher at the Department of Political and Social Sciences, University of Bologna, where I worked on digital inequalities among older adults within the ICTAGE project and Spoke 5 of AGE.IT. In parallel, I have continued developing research on internal, international, and return migration, with particular attention to their implications for social mobility across generations.
 
