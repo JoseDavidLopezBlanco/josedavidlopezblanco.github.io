@@ -16,6 +16,8 @@ And so, a series of fortunate circumstances led me to sociology, that wonderfull
 At the same time, sociology brings me endless joy. Like a shipwrecked poet carving words into the sand, knowing the waves will erase them tomorrow, I remain captivated by the world around me, armed with only a few certain truths: that all questions may never be fully answered; that social structures may never be perfectly understood; and that human agency will always retain an element of mystery. Yet I have learned that the struggle itself is enough. In wrestling with these endless puzzles, there is not frustration, but freedom. Like Camus’s Sisyphus, I find happiness in the work itself.
 
 I will always strive to unravel the social dynamics that shape us, to understand who we are, and to imagine who we can become. 
+
+
                                                   *************
 ---------------------------------------------------------------------------------------------------------------------
                                                   *************
