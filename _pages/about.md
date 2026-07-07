@@ -13,7 +13,8 @@ I am a Postdoctoral Researcher at the National University of Distance Education 
 
 My research examines social stratification across several intersecting dimensions — migration and spatial mobility, gender inequalities and masculinities, digital divides, and educational trajectories — combining life-course and cumulative (dis)advantage perspectives with advanced quantitative methods, including sequence analysis, RIF/inequality decomposition, and multilevel modeling, applied to comparative European survey and administrative data.
 
-This work has been published in [European Societies](https://doi.org/10.1162/EUSO.a.115), the [Journal of Ethnic and Migration Studies](https://doi.org/10.1080/1369183X.2024.2359676), [Population, Space and Place](https://doi.org/10.1002/psp.70050), and [Research in Social Stratification and Mobility](https://doi.org/10.1016/j.rssm.2026.101128), among others, and is forthcoming in *Comparative Population Studies*. Current work is under revise-and-resubmit at *Social Indicators Research* and *International Migration*.
+This work has been published in [European Societies](https://direct.mit.edu/euso) (x2), the [Journal of Ethnic and Migration Studies](https://www.tandfonline.com/journals/cjms20), [Population, Space and Place](https://onlinelibrary.wiley.com/journal/15448452), and [Research in Social Stratification and Mobility](https://www.sciencedirect.com/journal/research-in-social-stratification-and-mobility). Current work is under revise-and-resubmit at *Social Indicators Research* and *International Migration*.
+
 
 Previously, I was a Postdoctoral Researcher at the Department of Political and Social Sciences, University of Bologna, where I worked on digital inequalities among older adults within the ICTAGE project and Spoke 5 of AGE.IT. I have also continued developing research on internal, international, and return migration, with particular attention to their implications for social mobility across generations.
 
