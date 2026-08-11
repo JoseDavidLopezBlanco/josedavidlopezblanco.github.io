@@ -9,6 +9,20 @@ Research
 
 # <span style="color:#52adc8"> Publications </span>
 
+## Lopez Blanco, J.D. (2026), The Long Shadow of Migration: How Mobility Biographies Shape Mental Health Among Older Adults in Europe.
+<details>
+<summary>Read more</summary>
+This paper examines how mobility biographies shape mental health in later life. Moving beyond the conventional migrant/non-migrant binary, we reconstruct complete internal, return, and international migration histories for individuals aged 50 and older across 20 European countries, linking retrospective life-history data from SHARE to repeated measures of depressive symptoms (Waves 4-9). Our results reveal three sets of findings. First, international migrants face a substantial and persistent mental health penalty, roughly five times greater than the modest disadvantage observed among internal migrants, while return migrants are statistically indistinguishable from stayers. Second, the cumulative toll of repeated mobility depends on migration type: each additional cross-border episode is associated with markedly worse mental health, while repeated internal moves carry limited consequences. Third, international migration in midlife is associated with progressively worse outcomes in later life, whereas the timing of internal moves bears no discernible association with mental health. These findings underscore the importance of treating migration not as a single event but as a cumulative biographical process, the mental health consequences of which unfold – and compound – across the life course.
+<br><br>
+Journal Impact Factor: 2.3
+Category: Demography (19/51, Q2 2025)
+<br>
+  - <i>Comparative Population Studies Vol.51, 311-342, https://doi.org/10.12765/CPoS-2026-135 </i>.
+</details>
+<br>
+
+
+
 ## Lopez Blanco, J.D & Albertini, M. (2026), Digital citizens or digital outcasts? On the evolving relation between social stratification and utilization of e-administration
 <details>
 <summary>Read more</summary>
